@@ -4,6 +4,6 @@
 
 > **Português**: Compilação de códigos, exercícios e relatórios feitos para a classe ENE0040 de elétrica na UnB. Todos os códigos foram feitos em VHDL.
 
-## Ementa da Aula
+## Laboratório de Sistemas Digitais
 
 *Projeto e simulação em software de circuitos lógicos combinacionais e sequenciais. Linguagem de descrição de hardware implementação de circuitos combinacionais e sequenciais em FPGA.*
